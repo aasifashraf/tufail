@@ -56,9 +56,6 @@ const Portfolio = () => {
             Projects
           </p>
         </div>
-        <div>
-          <p>NOT AVAILABLE</p>
-        </div>
         {/* <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-8 px-12 sm:px-0">
           {portfolios.map(({ id, src, link, repo }) => (
             <div key={id} className="shadow-md shadow-gray-600 rounded-lg">
