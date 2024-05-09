@@ -22,7 +22,7 @@ const SocialLinks = () => {
           GitHub <FaGithub size={30} />
         </>
       ),
-      href: "https://www.linkedin.com/in/tufail-ahmad-shah-4798ba203/",
+      href: "https://github.com/TufailAhmadShah",
     },
     {
       id: 3,
