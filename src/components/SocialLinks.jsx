@@ -43,16 +43,16 @@ const SocialLinks = () => {
     //   href: resume,
     //   download: true,
     // },
-    {
-      id: 5,
-      child: (
-        <>
-          Twitter <FaTwitter size={30} />
-        </>
-      ),
-      href: "#",
-      style: "rounded-br-md",
-    },
+    // {
+    //   id: 5,
+    //   child: (
+    //     <>
+    //       Twitter <FaTwitter size={30} />
+    //     </>
+    //   ),
+    //   href: "#",
+    //   style: "rounded-br-md",
+    // },
   ];
 
   return (
